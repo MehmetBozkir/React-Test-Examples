@@ -1,0 +1,19 @@
+* {
+  background-color: rgb(203 213 225);
+  text-align: center;
+}
+.div1 {
+  background-color: rgb(251 146 60);
+  margin: 40px;
+  padding: 10px;
+}
+.div2 {
+  background-color: rgb(132 204 22);
+  margin: 40px;
+  padding: 10px;
+}
+.div3 {
+  background-color: rgb(124 58 237);
+  margin: 40px;
+  padding: 10px;
+}
