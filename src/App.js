@@ -1,10 +1,15 @@
+import { useState } from "react";
+
 function App() {
+  const [count, setCount] = useState(0);
+
+  const handleInc = () => {
+    setCount(count + 1);
+  };
+
   return (
     <div className="App">
       <header className="App-header">
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
         <button>Button</button>
         <a
           className="App-link"
@@ -15,6 +20,8 @@ function App() {
           Learn React
         </a>
       </header>
+      <h1>{count}</h1>
+      <button onClick={handleInc}>Inc</button>
     </div>
   );
 }
