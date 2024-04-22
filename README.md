@@ -21,9 +21,9 @@ A simple project where I tried React tests.
 
   ## :movie_camera: Images
 
-  <img align="center" src="https://github.com/MehmetBozkir/React-Test-Examples/assets/150898451/92ce88d8-bc24-4cfb-9f4f-9a39e9a893ce" alt="Linkedin"/>
+  <img align="center" src="https://github.com/MehmetBozkir/React-Test-Examples/assets/150898451/92ce88d8-bc24-4cfb-9f4f-9a39e9a893ce" alt="Test Photo 1"/>
   <hr/>
-  <img align="center" src="https://github.com/MehmetBozkir/React-Test-Examples/assets/150898451/a178c12a-1207-4ce7-849d-fb4a88719de4" alt="Linkedin"/>
+  <img align="center" src="https://github.com/MehmetBozkir/React-Test-Examples/assets/150898451/a178c12a-1207-4ce7-849d-fb4a88719de4" alt="Test Photo 2"/>
 
     
   
